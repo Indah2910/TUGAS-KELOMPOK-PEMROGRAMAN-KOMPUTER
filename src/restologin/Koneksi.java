@@ -9,6 +9,7 @@ import java.nio.file.Paths;
 /**
  * Database Connection Utility Class for Resto Kelabu
  * Handles MySQL database connections with proper error handling
+ * Author Indah Fitriyani
  */
 public class koneksi {
     
